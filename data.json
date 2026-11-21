@@ -1,0 +1,48 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Subhankar",
+            "department": "Cloud Engineering",
+            "role": "Automation Engineer",
+            "salary": 650000,
+            "skills": [
+                "Python",
+                "Jenkins",
+                "Docker",
+                "AWS"
+            ],
+            "active": true
+        },
+        {
+            "id": 3,
+            "name": "Priya",
+            "department": "Development",
+            "role": "Python Developer",
+            "salary": 800000,
+            "skills": [
+                "Python",
+                "FastAPI",
+                "SQL"
+            ],
+            "active": false
+        },
+        {
+            "id": 4,
+            "name": "Vinaykwa",
+            "role": "Shift Lead",
+            "salary": 800000,
+            "skills": [
+                "Python",
+                "FastAPI",
+                "SQL"
+            ],
+            "active": true
+        }
+    ],
+    "company": {
+        "name": "Tech Solutions",
+        "location": "Bengaluru",
+        "total_employees": 3
+    }
+}
